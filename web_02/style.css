@@ -199,14 +199,14 @@ main {
 
 
 /* #############home #####################################*/
-#homu {
+#home {
     grid-column: 1 / -1;
     grid-row: 1;
     width: 100vw;
     height: 100vh;
     font-family: 'Playfair Display', serif;
 }
-#homu h2 {
+#home h2 {
     font-size: 12vw;
     margin-top: 25vh;
     text-align:center;
@@ -563,14 +563,14 @@ footer p {
                     [access] auto;
     }
     
-    #homu {
+    #home {
         grid-column: 1 / -1;
         grid-row: 1;
         width: 100vw;
         height:100%;
         font-family: 'Playfair Display', serif;
     }
-    #homu h2 {
+    #home h2 {
         font-size: 16vw;
         margin-top: 35vh;
         text-align:center;
